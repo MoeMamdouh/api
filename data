@@ -1,0 +1,10 @@
+{
+  "enabled": true,
+  "users": [
+    {"id": 1, "name": "Alice", "role": "admin"},
+    {"id": 2, "name": "Bob", "role": "user"},
+    {"id": 3, "name": "Charlie", "role": "user"}
+  ],
+  "version": "1.0",
+  "updated": "2025-05-08"
+}
