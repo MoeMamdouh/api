@@ -1,25 +1,54 @@
 {
-  "BEST_SELLER_CATEGORY_ID": [
-    [false, false],
-    [false, false],
-    [false, false],
-    [false, false],
-    [false, false]
-  ],
-  "WISHLIST_MAX_PRODUCTS": {
-    1:false,
-    2: "false",
-    3: "false",
-    4:false,
-    5:false,
-    6:false,
-    7:false
-  },
-  "WISHLIST_MIN_PRODUCTS": {},
-  "KID_NAME_MAX_LENGTH": {},
-  "CATEGORY_MIN_LENGTH": {},
-  "ALLOWED_COUNTRIES": {},
-  "SYNC_DAYS_NUMBER": {},
-  "HOBBIES_MIN_LENGTH": {},
-  "HOBBIES_MAX_LENGTH": {}
+   "BEST_SELLER_CATEGORY_ID":[
+      [
+         false,
+         false
+      ],
+      [
+         false,
+         false
+      ],
+      [
+         false,
+         false
+      ],
+      [
+         false,
+         false
+      ],
+      [
+         false,
+         false
+      ]
+   ],
+   "WISHLIST_MAX_PRODUCTS":{
+      "1":false,
+      "2":"false",
+      "3":"false",
+      "4":false,
+      "5":false,
+      "6":false,
+      "7":false
+   },
+   "WISHLIST_MIN_PRODUCTS":{
+      
+   },
+   "KID_NAME_MAX_LENGTH":{
+      
+   },
+   "CATEGORY_MIN_LENGTH":{
+      
+   },
+   "ALLOWED_COUNTRIES":{
+      
+   },
+   "SYNC_DAYS_NUMBER":{
+      
+   },
+   "HOBBIES_MIN_LENGTH":{
+      
+   },
+   "HOBBIES_MAX_LENGTH":{
+      
+   }
 }
