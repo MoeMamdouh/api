@@ -1,10 +1,11 @@
 {
-  "enabled": false,
-  "users": [
-    {"id": 1, "name": "Alice", "role": "admin"},
-    {"id": 2, "name": "Bob", "role": "user"},
-    {"id": 3, "name": "Charlie", "role": "user"}
-  ],
-  "version": "1.0",
-  "updated": "2025-05-08"
+  "BEST_SELLER_CATEGORY_ID": {},
+  "WISHLIST_MAX_PRODUCTS": {},
+  "WISHLIST_MIN_PRODUCTS": {},
+  "KID_NAME_MAX_LENGTH": {},
+  "CATEGORY_MIN_LENGTH": {},
+  "ALLOWED_COUNTRIES": {},
+  "SYNC_DAYS_NUMBER": {},
+  "HOBBIES_MIN_LENGTH": {},
+  "HOBBIES_MAX_LENGTH": {}
 }
