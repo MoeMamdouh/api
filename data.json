@@ -22,9 +22,7 @@
       ]
    ],
    "WISHLIST_MAX_PRODUCTS":"",
-   "WISHLIST_MIN_PRODUCTS":{
-      
-   },
+   "WISHLIST_MIN_PRODUCTS":false,
    "KID_NAME_MAX_LENGTH":{
       
    },
